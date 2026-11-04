@@ -67,6 +67,6 @@ end
 
 gem "devise", "~> 5.0"
 
-gem "tailwindcss-rails", "~> 4.6"
+gem "tailwindcss-rails", "~> 4.7"
 
 gem "foreman", "~> 0.90.0"
